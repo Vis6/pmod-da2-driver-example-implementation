@@ -14,4 +14,4 @@
 - Place the folder "pmod_da2_driver" and the file "main.c" in the folder "src" of your project.
 - Run the code and it should work.
 ## Result
-![Two channel sine waves](./result.jpg)
+<img src="https://github.com/Vis6/pmod-da2-driver-example-implementation/blob/master/result.jpg" alt="Two channel sine waves" width="354.4" height="265.6" align="left" />
