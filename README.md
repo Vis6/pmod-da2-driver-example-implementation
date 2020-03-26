@@ -14,4 +14,4 @@
 - Place the folder "pmod_da2_driver" and the file "main.c" in the folder "src" of your project.
 - Run the code and it should work.
 ## Result
-![avatar](.\res.jpg)
+![Two channel sine waves](./result.jpg)
