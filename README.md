@@ -1,6 +1,6 @@
 # Example of DAC implementation using Pmod DA2
 ## Description
-- Source codes for driving Pmod DA2 are provided under the path ".\src\pmod_da2_driver".  
+- Source codes for driving Pmod DA2 are provided in the folder "pmod_da2_driver".  
 - The example uses Pmod DA2 at PS side of the FPGA board to generate two sinusoidal waves.
 ## Platform
 ### Hardware
@@ -11,8 +11,9 @@
 - Xilinx SDK 2018.2  
 ## Execution
 - Connect the Pmod DA2 to the Pmod JE1 of the FPGA board.
+- Create an application in the SDK.
 - Place the folder "pmod_da2_driver" and the file "main.c" in the folder "src" of your project.
-- Run the code and it should work.
+- Run the code on the FPGA board.
 ## Result
 Two channel sine waves.  
 <img src="https://github.com/Vis6/pmod-da2-driver-example-implementation/blob/master/result.jpg" alt="Two channel sine waves" width="354.4" height="265.6" align="left" />
