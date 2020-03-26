@@ -12,7 +12,7 @@
 ## Execution
 - Connect the Pmod DA2 to the Pmod JE1 of the FPGA board.
 - Create an application in the SDK.
-- Place the folder "pmod_da2_driver" and the file "main.c" in the folder "src" of your project.
+- Place the folder "pmod_da2_driver" and the file "main.c" in the folder "src".
 - Run the code on the FPGA board.
 ## Result
 Two channel sine waves.  
